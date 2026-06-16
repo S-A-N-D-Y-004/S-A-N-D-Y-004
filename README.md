@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sandeep G 👋
 
-<!--
-**S-A-N-D-Y-004/S-A-N-D-Y-004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineer | Software Developer | AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (CGPA: 8.7)
+📍 Puducherry, India
+💼 Incoming Engineer at Tata Elxsi
+📄 Published Research Author (SPARTA+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- Java
+- Machine Learning
+- Artificial Intelligence
+- CARLA Simulator
+- ADAS
+- MySQL
+- Git
+
+## Featured Projects
+🚗 FCW-Tata-Teleport-24
+⚽ SPARTA+
+🔫 AI-Based Gunshot Detection System
+🏥 Hospital Management System
+
+## Contact
+LinkedIn: linkedin.com/in/sandeep-g-cse
+Email: mrsandeep1206@gmail.com
